@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pintutest.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 27.761 s - in pintutest.RunCucumberTest
